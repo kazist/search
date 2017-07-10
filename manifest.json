@@ -1,9 +1,9 @@
 {
-    "name": "kazist/search",
+    "name": "search",
     "title": "Search Indexing",
     "icon": "icons\/search.png",
     "extension": "component",
-    "path": "applications/Search/",
+    "path": "search\/",
     "description": "Search Indexing",
     "version": 1
 }
